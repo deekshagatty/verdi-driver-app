@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sheetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Assignments #"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:paddingBottom="8dp"/>
+
+    <TextView android:id="@+id/tvPickup"  android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/black" android:text="Pickup: -" />
+    <TextView android:id="@+id/tvDrop"    android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/black" android:text="Drop: -" />
+    <TextView android:id="@+id/tvType"    android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/black" android:text="Task Type: -" />
+    <TextView android:id="@+id/tvStatus"  android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/black" android:text="Task Status: -" />
+    <TextView android:id="@+id/tvCreated" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/black" android:text="Created: -" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end"
+        android:paddingTop="12dp">
+
+        <Button
+            android:id="@+id/btnDismiss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dismiss" />
+
+        <Button
+            android:id="@+id/btnAccept"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accept"
+            android:layout_marginStart="12dp" />
+    </LinearLayout>
+</LinearLayout>

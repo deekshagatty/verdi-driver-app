@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvTaskTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Title"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvTaskAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Address"
+        android:textSize="14sp"
+        android:paddingBottom="8dp"/>
+
+    <com.esri.arcgisruntime.mapping.view.MapView
+        android:id="@+id/paciMapView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+</LinearLayout>

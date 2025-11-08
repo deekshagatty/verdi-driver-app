@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Circle outline -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@android:color/holo_green_dark"
+        android:strokeWidth="3"
+        android:pathData="M24,2a22,22 0 1,1 0,44a22,22 0 1,1 0,-44" />
+
+    <!-- Arrows >>> -->
+    <path
+        android:fillColor="@android:color/holo_green_dark"
+        android:pathData="M18,24 l4,-4 v8 z" />
+    <path
+        android:fillColor="@android:color/holo_green_dark"
+        android:pathData="M24,24 l4,-4 v8 z" />
+    <path
+        android:fillColor="@android:color/holo_green_dark"
+        android:pathData="M30,24 l4,-4 v8 z" />
+</vector>

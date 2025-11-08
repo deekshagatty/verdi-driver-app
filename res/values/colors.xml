@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="status_started">#2196F3</color> <!-- Blue -->
+    <color name="status_acknowledged">#BA68C8</color> <!-- Light Purple -->
+    <color name="status_default">#FFFFFF</color>
+    <color name="purple_200">#BB86FC</color> <!-- White -->
+    <color name="gray">#808080</color>
+    <color name="light_gray">#E0E0E0</color>
+
+    <color name="started_bg">#E3F2FD</color>
+    <color name="started_text">#1565C0</color>
+
+    <color name="ack_bg">#F3E5F5</color>
+    <color name="ack_text">#8E24AA</color>
+
+    <color name="completed_bg">#E8F5E9</color>
+    <color name="completed_text">#2E7D32</color>
+
+    <color name="verdi_green_bg">#86EFAC</color>
+    <color name="verdi_green_text">#064E3B</color>
+    <color name="verdi_red_bg">#FECACA</color>
+    <color name="verdi_red_text">#7F1D1D</color>
+
+
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+</resources>
