@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">El servei ha sol·licitat un certificat per autenticar-vos, però no n\'ha rebut cap. El vostre dispositiu no té cap certificat o bé no heu trobat cap certificat aplicable a la llista. Toqueu Continua per anar a l\'aplicació Configuració, on podeu instal·lar un certificat per accedir a aquest servei.</string>
+</resources>

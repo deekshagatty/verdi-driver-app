@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">Layanan meminta sertifikat untuk autentikasi, tetapi belum dipenuhi. Mungkin perangkat Anda tidak memiliki sertifikat atau Anda tidak menemukan sertifikat yang sesuai di daftar yang ditampilkan. Ketuk Lanjutkan untuk membuka aplikasi Pengaturan yang memungkinkan Anda menginstal sertifikat guna mengakses layanan ini.</string>
+</resources>

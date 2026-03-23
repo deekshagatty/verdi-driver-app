@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">サービスが認証する証明書を要求しましたが、証明書を受信しませんでした。 デバイスに証明書がないか、表示されたリスト内に適用可能な証明書が見つかりませんでした。 [続行] をタップして [設定] アプリに移動すると、このサービスにアクセスするための証明書をインストールできます。</string>
+</resources>

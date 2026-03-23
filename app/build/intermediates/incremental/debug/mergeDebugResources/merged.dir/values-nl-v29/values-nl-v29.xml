@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">De service heeft een certificaat aangevraagd om te verifiëren, maar heeft er geen ontvangen. Ofwel uw apparaat heeft geen certificaten ofwel u heeft geen toepasselijk certificaat gevonden in de weergegeven lijst. Tik op Doorgaan om naar de app Instellingen te gaan, waar u een certificaat kunt installeren om toegang te krijgen tot deze service.</string>
+</resources>

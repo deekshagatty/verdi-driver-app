@@ -1,0 +1,48 @@
+com.example.loginapp-jetified-savedstate-1.2.1-0 C:\Users\dcgat\.gradle\caches\transforms-4\114f5aa22b890c8e7db8403568d806df\transformed\jetified-savedstate-1.2.1\res
+com.example.loginapp-jetified-activity-1.8.0-1 C:\Users\dcgat\.gradle\caches\transforms-4\185de42e4762557ace162b2739b2fbe3\transformed\jetified-activity-1.8.0\res
+com.example.loginapp-jetified-firebase-common-21.0.0-2 C:\Users\dcgat\.gradle\caches\transforms-4\1b07bb5368bd362557e02d545a83aeb3\transformed\jetified-firebase-common-21.0.0\res
+com.example.loginapp-lifecycle-livedata-core-2.6.2-3 C:\Users\dcgat\.gradle\caches\transforms-4\1c47d4bb15f03d538e8c706d2a757671\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.loginapp-jetified-startup-runtime-1.1.1-4 C:\Users\dcgat\.gradle\caches\transforms-4\23607d31d5e12298ab6e216f33e5c6d8\transformed\jetified-startup-runtime-1.1.1\res
+com.example.loginapp-coordinatorlayout-1.1.0-5 C:\Users\dcgat\.gradle\caches\transforms-4\293ae3059a021ca037a3083e09c23767\transformed\coordinatorlayout-1.1.0\res
+com.example.loginapp-jetified-emoji2-1.3.0-6 C:\Users\dcgat\.gradle\caches\transforms-4\2a23e576eb0d44544cab7dd87cde9ffe\transformed\jetified-emoji2-1.3.0\res
+com.example.loginapp-jetified-arcgis-android-100.15.0-7 C:\Users\dcgat\.gradle\caches\transforms-4\2d47399bfa2b3f07e9742c5442ab2e87\transformed\jetified-arcgis-android-100.15.0\res
+com.example.loginapp-jetified-swipe-button-0.8.3-8 C:\Users\dcgat\.gradle\caches\transforms-4\302a9185db8c573ba4d1fad50f1a70da\transformed\jetified-swipe-button-0.8.3\res
+com.example.loginapp-jetified-profileinstaller-1.3.1-9 C:\Users\dcgat\.gradle\caches\transforms-4\43cb1feb381d6d735ed46227c5687e94\transformed\jetified-profileinstaller-1.3.1\res
+com.example.loginapp-jetified-play-services-base-18.5.0-10 C:\Users\dcgat\.gradle\caches\transforms-4\45c260a41bfe9b5400beccc7e6f5ce64\transformed\jetified-play-services-base-18.5.0\res
+com.example.loginapp-core-runtime-2.2.0-11 C:\Users\dcgat\.gradle\caches\transforms-4\4ecd793815033e7f9afb45b0bbdac9ba\transformed\core-runtime-2.2.0\res
+com.example.loginapp-drawerlayout-1.1.1-12 C:\Users\dcgat\.gradle\caches\transforms-4\53114919b03b00952268e5e5a7df3286\transformed\drawerlayout-1.1.1\res
+com.example.loginapp-lifecycle-livedata-2.6.2-13 C:\Users\dcgat\.gradle\caches\transforms-4\5b4262ac7fcce04c22196ac35f0baa3b\transformed\lifecycle-livedata-2.6.2\res
+com.example.loginapp-jetified-lifecycle-process-2.6.2-14 C:\Users\dcgat\.gradle\caches\transforms-4\5dc7791ccb7d0ea31c0570570c57ab37\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.loginapp-jetified-play-services-auth-20.7.0-15 C:\Users\dcgat\.gradle\caches\transforms-4\7492608ccf8eba13c9d20796712915ac\transformed\jetified-play-services-auth-20.7.0\res
+com.example.loginapp-jetified-play-services-maps-18.2.0-16 C:\Users\dcgat\.gradle\caches\transforms-4\7a19806400fd5821a8706366a5be97e1\transformed\jetified-play-services-maps-18.2.0\res
+com.example.loginapp-lifecycle-viewmodel-2.6.2-17 C:\Users\dcgat\.gradle\caches\transforms-4\868c78d1c7e09c7f1f61dfb4c8fee4d4\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.loginapp-lifecycle-runtime-2.6.2-18 C:\Users\dcgat\.gradle\caches\transforms-4\88392fe13d4f01be1bc4f470bbad686f\transformed\lifecycle-runtime-2.6.2\res
+com.example.loginapp-jetified-annotation-experimental-1.4.0-19 C:\Users\dcgat\.gradle\caches\transforms-4\8af2c817542f640320f40860f6dfc5d4\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.loginapp-cardview-1.0.0-20 C:\Users\dcgat\.gradle\caches\transforms-4\90ff110b009c0c135229414cc2b8c708\transformed\cardview-1.0.0\res
+com.example.loginapp-jetified-appcompat-resources-1.7.0-21 C:\Users\dcgat\.gradle\caches\transforms-4\9ee1108748399a59545b8bfd26147ed4\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.loginapp-jetified-viewpager2-1.0.0-22 C:\Users\dcgat\.gradle\caches\transforms-4\a26f22ce73dac22d06e1b66337b2bbfa\transformed\jetified-viewpager2-1.0.0\res
+com.example.loginapp-jetified-play-services-basement-18.4.0-23 C:\Users\dcgat\.gradle\caches\transforms-4\a9d7de926fd1a3e8abc1901326a5eb03\transformed\jetified-play-services-basement-18.4.0\res
+com.example.loginapp-appcompat-1.7.0-24 C:\Users\dcgat\.gradle\caches\transforms-4\aa67083e5d20cdff5378891d1ccdb4c0\transformed\appcompat-1.7.0\res
+com.example.loginapp-jetified-slidetoact-0.11.0-25 C:\Users\dcgat\.gradle\caches\transforms-4\b18ea7084eb547a846ceb26e66b8f270\transformed\jetified-slidetoact-0.11.0\res
+com.example.loginapp-jetified-core-ktx-1.13.0-26 C:\Users\dcgat\.gradle\caches\transforms-4\b26b13e3855d43aa8e7bc6d24330ab90\transformed\jetified-core-ktx-1.13.0\res
+com.example.loginapp-core-1.13.0-27 C:\Users\dcgat\.gradle\caches\transforms-4\b78897e1e95c027a93bc93a593c00e49\transformed\core-1.13.0\res
+com.example.loginapp-localbroadcastmanager-1.1.0-28 C:\Users\dcgat\.gradle\caches\transforms-4\b8fe664eef595f309538292d566bccac\transformed\localbroadcastmanager-1.1.0\res
+com.example.loginapp-fragment-1.5.4-29 C:\Users\dcgat\.gradle\caches\transforms-4\baac3bfd496c9851a1bef2f4cc150409\transformed\fragment-1.5.4\res
+com.example.loginapp-constraintlayout-2.1.4-30 C:\Users\dcgat\.gradle\caches\transforms-4\c2244d5d50266824cef37741be819d12\transformed\constraintlayout-2.1.4\res
+com.example.loginapp-jetified-credentials-play-services-auth-1.2.0-rc01-31 C:\Users\dcgat\.gradle\caches\transforms-4\c37ccff2d746f881b4a00b3a4297e719\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.loginapp-transition-1.5.0-32 C:\Users\dcgat\.gradle\caches\transforms-4\dd2564e00e695667ae9628d75659a402\transformed\transition-1.5.0\res
+com.example.loginapp-browser-1.4.0-33 C:\Users\dcgat\.gradle\caches\transforms-4\e20b9c09b75217473842b1f6905cc42e\transformed\browser-1.4.0\res
+com.example.loginapp-jetified-firebase-messaging-24.0.2-34 C:\Users\dcgat\.gradle\caches\transforms-4\e41e90ab6dccf8dfbe7cd392cff232f7\transformed\jetified-firebase-messaging-24.0.2\res
+com.example.loginapp-jetified-credentials-1.2.0-rc01-35 C:\Users\dcgat\.gradle\caches\transforms-4\e537a1909ef99bd69b447757d643af77\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.loginapp-recyclerview-1.1.0-36 C:\Users\dcgat\.gradle\caches\transforms-4\ecd92170743452c7172b7e02110ac4bd\transformed\recyclerview-1.1.0\res
+com.example.loginapp-material-1.12.0-37 C:\Users\dcgat\.gradle\caches\transforms-4\f2dc05d2ad889b3496950a9b298e4141\transformed\material-1.12.0\res
+com.example.loginapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-38 C:\Users\dcgat\.gradle\caches\transforms-4\f73ce6a9ee754d637c9e2838d4643f32\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.loginapp-jetified-emoji2-views-helper-1.3.0-39 C:\Users\dcgat\.gradle\caches\transforms-4\f9612997fa3b0afa377b3209a381026b\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.loginapp-pngs-40 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\generated\res\pngs\debug
+com.example.loginapp-res-41 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\generated\res\processDebugGoogleServices
+com.example.loginapp-resValues-42 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\generated\res\resValues\debug
+com.example.loginapp-packageDebugResources-43 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.loginapp-packageDebugResources-44 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.loginapp-merged_res-45 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\build\intermediates\merged_res\debug
+com.example.loginapp-debug-46 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\src\debug\res
+com.example.loginapp-main-47 C:\Users\dcgat\Documents\Verdi_Project\SimpleShopJava - Latest 25 Oct\app\src\main\res

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">Tjenesten har bedt om et sertifikat for godkjenning, men har ikke mottatt noe. Enten har ikke enheten din sertifikater, eller så har du ikke funnet et aktuelt sertifikat i den viste listen. Trykk på fortsett for å gå til Innstillinger-appen, der du kan installere et sertifikat som gir deg tilgang til denne tjenesten.</string>
+</resources>

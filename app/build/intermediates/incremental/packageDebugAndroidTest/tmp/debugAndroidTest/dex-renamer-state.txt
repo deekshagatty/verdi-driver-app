@@ -1,0 +1,7 @@
+#Mon Oct 13 13:39:53 IST 2025
+base.0=D\:\\Kuwait\\New folder (2)\\SimpleShopJava - Latest 4 Oct\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\Kuwait\\New folder (2)\\SimpleShopJava - Latest 4 Oct\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
+path.0=0/classes.dex
+path.1=12/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">Serviciul a solicitat un certificat pentru autentificare, dar nu a primit niciunul. Fie dispozitivul dvs. nu are certificate, fie nu ați găsit un certificat aplicabil în lista afișată. Atingeți Continuare pentru a accesa aplicația Setări, unde puteți instala un certificat pentru a accesa acest serviciu.</string>
+</resources>

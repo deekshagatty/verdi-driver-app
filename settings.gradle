@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://jitpack.io' }                       // for MPAndroidChart, swipe-button
+        maven { url 'https://esri.jfrog.io/artifactory/arcgis' } // for ArcGIS Runtime
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://esri.jfrog.io/artifactory/arcgis' }
+    }
+}
+
+
+rootProject.name = "SimpleShopJava"
+include(":app")

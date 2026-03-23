@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="vehicles">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Van</item>
+    </string-array>
+    <color name="ack_bg">#F3E5F5</color>
+    <color name="ack_text">#8E24AA</color>
+    <color name="black">#000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="completed_bg">#E8F5E9</color>
+    <color name="completed_text">#2E7D32</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="started_bg">#E3F2FD</color>
+    <color name="started_text">#1565C0</color>
+    <color name="status_acknowledged">#BA68C8</color>
+    <color name="status_default">#FFFFFF</color>
+    <color name="status_started">#2196F3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="verdi_green_bg">#86EFAC</color>
+    <color name="verdi_green_text">#064E3B</color>
+    <color name="verdi_red_bg">#FECACA</color>
+    <color name="verdi_red_text">#7F1D1D</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Verdi</string>
+    <string name="arrive">Arrive</string>
+    <string name="gcm_defaultSenderId" translatable="false">910631395635</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyH6kVaUNFB1P3za1msF32Sj72ytwxBMA</string>
+    <string name="google_app_id" translatable="false">1:910631395635:android:cfd83aa45f1dcd721dde46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyH6kVaUNFB1P3za1msF32Sj72ytwxBMA</string>
+    <string name="google_storage_bucket" translatable="false">verdi-dispatch.firebasestorage.app</string>
+    <string name="project_id" translatable="false">verdi-dispatch</string>
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/bottom_sheet_bg</item>
+    </style>
+    <style name="MenuItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Theme.App.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="Theme.App.DialogOverlay" parent="Theme.Material3.DayNight.Dialog.Alert">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="Theme.LoginApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/purple_700</item>
+    </style>
+    <style name="Theme.TaskDialog" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

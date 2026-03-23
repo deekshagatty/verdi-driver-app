@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arcgisruntime_client_cert_dialog_message">此服務請求驗證憑換，但未收到憑證。 可能是您的裝置沒有憑換，或在顯示的清單中找不到適用的憑換。 點選「繼續」以移至「設定」應用程式，您可在其中安裝憑換以存取此服務。</string>
+</resources>
