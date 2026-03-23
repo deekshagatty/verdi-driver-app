@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Norint naudotis paslauga, reikia nurodyti sertifikatą, tačiau joks sertifikatas nebuvo nuodytas. Arba jūsų įrenginyje nėra sertifikatų, arba rodomame sąraše neradote tinkamo sertifikato. Bakstelėję Tęsti, aplikacijoje Nustatymai galėsite įdiegti sertifikatą, kad galėtumėte pasiekti šią paslaugą.</string>
-</resources>

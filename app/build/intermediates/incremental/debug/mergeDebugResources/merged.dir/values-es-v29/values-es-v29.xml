@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">El servicio solicitó un certificado para la autenticación, pero no recibió ninguno. O bien su dispositivo no tiene certificados o no ha encontrado un certificado aplicable en la lista mostrada. Toque Continuar para ir a la aplicación Configuración, donde puede instalar un certificado para acceder a este servicio.</string>
-</resources>

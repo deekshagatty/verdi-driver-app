@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">해당 서비스가 인증을 위한 인증서를 요청했지만 인증서를 받지 않았습니다. 기기에 인증서가 없거나 표시된 목록에서 해당하는 인증서를 찾지 못했습니다. 계속을 눌러 설정 앱으로 이동합니다. 여기에서 이 서비스에 접근하기 위한 인증서를 설치할 수 있습니다.</string>
-</resources>

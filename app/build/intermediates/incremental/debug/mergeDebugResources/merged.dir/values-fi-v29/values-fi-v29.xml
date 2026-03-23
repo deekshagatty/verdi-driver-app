@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Palvelu pyysi varmennetta todentamista varten, mutta ei saanut sellaista. Laitteella ei ole varmenteita, tai näkyvissä olevasta luettelosta ei löytynyt sopivaa varmennetta. Siirry asetussovellukseen napauttamalla Jatka. Tässä sovelluksessa voit asentaa palvelun käytön edellyttämän varmenteen.</string>
-</resources>

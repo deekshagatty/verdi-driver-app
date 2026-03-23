@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Usluga je zatražila certifikat za provjeru vaše autentičnosti, ali ga nije primila. Ili vaš uređaj nema certifikata ili na prikazanom popisu niste pronašli odgovarajući certifikat. Dodirnite Nastavi da biste otvorili aplikaciju Postavke, gdje možete instalirati certifikat za pristup ovoj usluzi.</string>
-</resources>

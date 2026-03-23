@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Servis, kimlik doğrulaması için bir sertifika istedi ancak alamadı. Cihazınızın sertifikası yok veya görüntülenen listede geçerli bir sertifika bulamadınız. Bu servise erişim sağlamak için bir sertifika yükleyebileceğiniz Ayarlar uygulamasına gitmek için Devam\'a dokunun.</string>
-</resources>

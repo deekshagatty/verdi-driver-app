@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Dịch vụ đã yêu cầu chứng chỉ để xác thực, nhưng chưa nhận được. Thiết bị của bạn không có chứng chỉ hoặc bạn không tìm thấy chứng chỉ áp dụng trong danh sách được hiển thị. Nhấn Tiếp tục để vào ứng dụng Thiết lập. Tại đó, bạn có thể cài đặt một chứng chỉ để truy cập dịch vụ này.</string>
-</resources>

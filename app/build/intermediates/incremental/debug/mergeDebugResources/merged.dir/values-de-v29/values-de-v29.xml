@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Der Service hat für die Authentifizierung ein Client-Zertifikat angefordert, jedoch keines erhalten. Entweder sind auf Ihrem Gerät keine Zertifikate vorhanden, oder Sie haben in der angezeigten Liste kein anwendbares Zertifikat gefunden. Tippen Sie auf "Weiter", um zur App "Einstellungen" zu wechseln, wo Sie ein Zertifikat für den Zugriff auf diesen Service instalieren können.</string>
-</resources>

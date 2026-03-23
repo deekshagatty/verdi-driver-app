@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Serviss pieprasīja sertifikātu autentifikācijai, taču to nesaņēma. Vai nu ierīcē nav sertifikātu, vai arī parādītajā sarakstā nenorādījāt piemērotu sertifikātu. Pieskarieties pogai Turpināt, lai atvērtu lietotni Iestatījumi, kur var instalēt sertifikātu, lai piekļūtu šim servisam.</string>
-</resources>

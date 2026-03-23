@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Usługa zażądała certyfikatu, aby przeprowadzić proces uwierzytelniania, ale nie otrzymała go. Na Twoim urządzeniu nie ma żadnych certyfikatów lub nie znaleziono odpowiedniego certyfikatu na wyświetlonej liście. Naciśnij przycisk Kontynuuj, aby przejść do aplikacji Ustawienia, w której można zainstalować certyfikat umożliwiający dostęp do tej usługi.</string>
-</resources>

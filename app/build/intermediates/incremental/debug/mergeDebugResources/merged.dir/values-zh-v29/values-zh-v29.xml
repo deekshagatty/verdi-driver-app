@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">此服务请求了证书来进行身份验证，但并未收到证书。 您的设备上没有证书或您在显示的列表中找不到适合的证书。 点击“继续”以前往设置应用程序，您可在其中安装证书以访问此服务。</string>
-</resources>

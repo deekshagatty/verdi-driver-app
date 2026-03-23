@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Teenus palus teil autentimiseks esitada sertifikaadi, kuid ei saanud seda kätte. Teie seadmel pole ühtegi sertifikaati või te ei leidnud kuvatud loendist sobivat sertifikaati. Puudutage käsku Jätka, et avada rakendus Sätted, kus saate sellele teenusele juurdepääsuks installida sertifikaadi.</string>
-</resources>

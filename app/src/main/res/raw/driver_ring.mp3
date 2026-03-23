@@ -1,1 +1,0 @@
-Uri sound = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.driver_ring);

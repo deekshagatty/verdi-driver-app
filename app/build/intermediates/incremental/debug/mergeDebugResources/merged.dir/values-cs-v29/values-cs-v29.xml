@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Služba si vyžádala certifikát, aby mohla provést autentizaci. Bohužel žádný certifikát neobdržela. Vaše zařízení buďto nemá žádné certifikáty nebo jste nenašli vhodný certifikát v zobrazeném seznamu. Přejděte na Nastavení aplikace klepnutím na Pokračovat, kde si můžete nainstalovat certifikát pro přístup k této službě.</string>
-</resources>

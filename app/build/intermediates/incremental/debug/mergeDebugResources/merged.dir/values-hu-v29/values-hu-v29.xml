@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">A szolgáltatás a hitelesítéséhez tanúsítványt kért, de nem kapott. Vagy az eszköze nem rendelkezik tanúsítvánnyal, vagy a megjelenített listában Ön nem találta meg a megfelelőt. A Beállítások megjelenítéséhez koppintson a Folytatás gombra, majd telepítse a szolgáltatás eléréséhez szükséges tanúsítványt.</string>
-</resources>

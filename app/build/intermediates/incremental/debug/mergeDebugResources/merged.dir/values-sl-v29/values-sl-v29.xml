@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Storitev je za avtentifikacijo zahtevala certifikat odjemalca, ki pa ga ni prejela. Ali vaša naprava nima nobenih certifikatov ali pa niste našli veljavnega certifikata na prikazanem seznamu. Tapnite "Nadaljuj", da odprete aplikacijo "Nastavitve", v kateri lahko namestite certifikat za dostop do storitve.</string>
-</resources>

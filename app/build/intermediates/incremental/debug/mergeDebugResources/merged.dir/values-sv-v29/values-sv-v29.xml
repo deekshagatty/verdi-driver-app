@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="arcgisruntime_client_cert_dialog_message">Tjänsten efterfrågade ett certifikat för att autentisera, men fick inget. Antingen har din enhet inga certifikat eller så hittade du inte ett lämpligt certifikat i den visade listan. Klicka på Fortsätt för att gå till appen Inställningar där du kan installera ett certifikat för att få åtkomst till denna tjänst.</string>
-</resources>
